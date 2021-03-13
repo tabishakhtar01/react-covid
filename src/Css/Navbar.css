@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin:0;
+}
+.nav-width
+{
+    width: 100%;
+    margin: 0px;
+}
+.navi
+{
+    padding:0px 30px;
+}
+.navi:hover
+{
+    background-color : teal;
+    font-weight: bolder;
+}
+.navbar
+{  
+    opacity: 0.9; 
+    filter:(opacity=50);
+}       

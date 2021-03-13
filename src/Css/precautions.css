@@ -1,0 +1,50 @@
+*{
+    padding:0;
+    margin:0;
+}
+.main_div
+{
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.list1
+{
+    font-size: 20px;
+    padding-top: 80px;
+    text-transform: capitalize;
+    position: relative;
+}
+.list1 h2
+{
+    font-size: 20px;
+}
+.heading2
+{
+    margin-top: 70px;
+    
+}
+.testing
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.testing h1{
+    padding-top:50px;
+    font-size: 25px;
+}
+.testing h2
+{
+    font-size: 20px;
+    text-align: justify;
+}
+.testing #font1
+{
+    font-size: 40px;
+}
+@media screen and (max-width: 986px) {
+    .list1 {
+        padding-top: 50px !important;
+    }
+}
